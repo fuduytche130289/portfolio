@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="w-full h-[80px] flex justify-between items-center py-[25px] px-[3rem] lg:px-[50px] shadow-md">
+    <div class="w-full fixed z-50 bg-white h-[80px] flex justify-between items-center py-[25px] px-[3rem] lg:px-[50px] shadow-md">
       <h3 class="font-[800] text-[20px]">CongDuy.Dev</h3>
       <div class="hidden md:flex items-center">
         <p class="px-5 text-[20px] font-[600] cursor-pointer">Home</p>
